@@ -7,15 +7,14 @@
 
 - 👯 I’m looking to collaborate on **Devops and Cloud related**
 
-- 👨‍💻 All of my projects are available at [my github](my github)
-
+- 👨‍💻 All of my projects are available at **my git repos**
 - 📝 I hope to regularly write articles on [medium](medium)
 
 - 📫 How to reach me **thenedumicheal@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chinedu-micheal-nwadobu-28055a92/](https://www.linkedin.com/in/chinedu-micheal-nwadobu-28055a92/)
 
-- ⚡ Fun fact **i play badminton and love the aviation industry.**
+- ⚡ Fun fact **i play badminton and would love to be a pilot someday.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
