@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinedu Micheal Nwadobu</h1>
 <h3 align="center">i am a Computer Engineer with a proggresive passion and experience in cloud, DevOps and javascript.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nedumicheal&label=Profile%20views&color=0e75b6&style=flat" alt="nedumicheal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nedumicheal" alt="nedumicheal" /></a> </p>
-
 - 🔭 I’m currently working on [some DevOps and Cloud related projects](check repo)
 
 - 🌱 I’m currently growing my experience in **cloud, docker, kubernetes etc**
