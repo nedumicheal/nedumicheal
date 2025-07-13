@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [some DevOps and Cloud related projects](check repo)
 
-- 🌱 I’m currently growing my experience in **cloud, docker, kubernetes etc**
+- 🌱 I’m currently growing my experience in **cloud, docker, Terraform, kubernetes, git etc**
 
 - 👯 I’m looking to collaborate on **Devops and Cloud related**
 
